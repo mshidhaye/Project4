@@ -17,22 +17,21 @@ Given the systems available, our process was as follows:
 
 
 ### Results
-Below is a display of the classification report based on the Dataframe that is specifically the measures of the tumors at their worse size (largest). 
+- Below is a display of the classification report based on the Dataframe that is specifically the measures of the tumors at their worse size (largest) and the mean size. 
+- As indicated below, the accuracy increased once the data was optimized with the trials using the kerastuner library for both the mean and worse measurement figures.
 #### Classification Report for Worst (measures) DataFrame
 ![Class_report](class_report_worse.png)
 
-### Optimized Accuracy score: Worse Measures
+### Optimized Accuracy score: Worst Measures
 -------------------------------------------
-As indicated below, the accuracy increased once the data was optimized with the trials using the kerastuner library.
 ![acc_worse](acc_worse.png)
 
-#### Classification Report for Mean (measures) DataFrame
+
+#### Classification Report for Mean (average measures) DataFrame
 ![M_Class_report](class_report_mean.png) 
 
-
 ### Optimized Accuracy score: Average Measures
-------------------------------------------------
-***** add mean accuracy score here ****** 
+------------------------------------------------ 
 ![mean](acc_mean.PNG)
 
 
