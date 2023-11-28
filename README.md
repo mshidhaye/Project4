@@ -15,7 +15,12 @@ Given the systems available, our process was as follows:
 - Visualize data using Tableau
 
 ### Results
+-------------------------------------------------------------------------------
+#### Classification Report for Worst (measures) DataFrame
+![Alt text](image-2.png)
 
+** Accuracy scores
+![**Alt text**](image-1.png)
 
 
 
