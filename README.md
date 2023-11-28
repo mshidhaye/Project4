@@ -27,7 +27,8 @@ As indicated below, the accuracy increased once the data was optimized with the 
 ![acc_worse](acc_worse.png)
 
 #### Classification Report for Mean (measures) DataFrame
-![M_Class_report](class_report_mean.png)
+![M_Class_report](class_report_mean.png) 
+
 
 Optimized Accuracy score: Average Measures
 ------------------------------------------------
