@@ -18,7 +18,8 @@ Given the systems available, our process was as follows:
 
 ### Results
 - Below is a display of the classification report based on the Dataframe that is specifically the measures of the tumors at their worse size (largest) and the mean size. 
-- As indicated below, the accuracy increased once the data was optimized with the trials using the kerastuner library for both the mean and worse measurement figures.
+- As indicated below, the accuracy increased in most cases once the data was optimized with the trials using the kerastuner library for both the mean and worse  measurement figures.
+- This trial was ran many times and the numbers did change a bit everytime, but all stayed within that same range of at least a 91-99% accurracy. This confirmed the model used for predictions is efficient and a great tool to use to make these predictions on this scale.
 
 
 ### Optimized Accuracy score: Worst Measures
@@ -36,5 +37,6 @@ Given the systems available, our process was as follows:
 
 
 We also created visualizations for further analysis.
-These visulaization all confirm that the size of the tumor is a great predictor of the type of tumor: malignant or benign. The larger the tumor, the higher the chance of malignancy. 
+  - These visualizations all confirm our predictions: that the size of the tumor is a great predictor of the type of tumor: malignant or benign. The larger the tumor,     the higher the chance of malignancy. This also concurs with the accuracy of the model used to make predictions based on this given dataset.
+  
 ![area](Area_worst_visualization.png)
