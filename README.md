@@ -21,7 +21,7 @@ Below is a display of the classification report based on the Dataframe that is s
 #### Classification Report for Worst (measures) DataFrame
 ![Class_report](class_report_worse.png)
 
-Optimized Accuracy score: Worse Measures
+### Optimized Accuracy score: Worse Measures
 -------------------------------------------
 As indicated below, the accuracy increased once the data was optimized with the trials using the kerastuner library.
 ![acc_worse](acc_worse.png)
@@ -30,10 +30,10 @@ As indicated below, the accuracy increased once the data was optimized with the 
 ![M_Class_report](class_report_mean.png) 
 
 
-Optimized Accuracy score: Average Measures
+### Optimized Accuracy score: Average Measures
 ------------------------------------------------
 ***** add mean accuracy score here ****** 
-![mean](acc_mean.png)
+![mean](acc_mean.PNG)
 
 
 We also created visualizations for further analysis.
