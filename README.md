@@ -1,6 +1,6 @@
 # Breast Cancer Diagnosis ![Alt text](image.png)
 --------------------------------------
-Tumor testing
+## Tumor testing
 ### Intro
 In this project, we were tasked with using Machine Learning to make predictions on a chosen dataset. Our dataset is based on tumors tested for breast cancer and measurements related to those tumors, such as the average and worse smoothness, radius, perimeter. The dataset was chosen as it advises if tumor was malignant (cancerous) or benign  (non-cancerous).
 
@@ -16,9 +16,6 @@ Given the systems available, our process was as follows:
 
 ### Results
 
-** explain visualizations
-***Accuracy scores
-** classification reports
 
 
 
