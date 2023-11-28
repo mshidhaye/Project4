@@ -31,9 +31,10 @@ As indicated below, the accuracy increased once the data was optimized with the 
 
 Optimized Accuracy score: Average Measures
 ------------------------------------------------
+***** add mean accuracy score here ****** 
 ![mean](acc_mean.png)
 
 
 We also created visualizations for further analysis.
 These visulaization all confirm that the size of the tumor is a great predictor of the type of tumor: malignant or benign. The larger the tumor, the higher the chance of malignancy. 
-![area](area_worst_visualization.png)
+![area](Area_worst_visualization.png)
