@@ -1,4 +1,4 @@
-# Breast Cancer Diagnosis  ![https://th.bing.com/th/id/R.e445f9a69be402b40e5d5f312fe92013?rik=ReSjHSTW%2fmCE2w&riu=http%3a%2f%2fhealthycancerchick.files.wordpress.com%2f2013%2f03%2fpink-ribbon.jpg&ehk=3av4dH7v%2be7eeAPf5Kg53b4%2b9XBj9WykkP9z%2bVvI10c%3d&risl=&pid=ImgRaw&r=0]
+# Breast Cancer Diagnosis ![Alt text](image.png)
 --------------------------------------
 Tumor testing
 ### Intro
