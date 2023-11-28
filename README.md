@@ -37,6 +37,6 @@ Given the systems available, our process was as follows:
 
 
 We also created visualizations for further analysis.
-  - These visualizations all confirm our predictions: that the size of the tumor is a great predictor of the type of tumor: malignant or benign. The larger the tumor,     the higher the chance of malignancy. This also concurs with the accuracy of the model used to make predictions based on this given dataset.
+  - These visualizations all confirm our predictions: that the size of the tumor is a great predictor of the type of tumor: malignant or benign. The larger the tumor,     the higher the chance of malignancy. This also concurs with the accuracy of the model used to make predictions based on this given dataset. In the visulization below, the blue represents benign (B) tumors, orange is malignant (M) or cancerous tumors. The majority of the larger tumors were all malignant. 
   
 ![area](Area_worst_visualization.png)
