@@ -31,7 +31,7 @@ As indicated below, the accuracy increased once the data was optimized with the 
 
 Optimized Accuracy score: Average Measures
 ------------------------------------------------
-![acc_mean](acc_mean.png)
+![mean](acc_mean.png)
 
 
 We also created visualizations for further analysis.
