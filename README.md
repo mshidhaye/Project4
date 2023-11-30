@@ -33,7 +33,7 @@ Given the systems available, our process was as follows:
 ------------------------------------------------ 
 ![mean](acc_mean.PNG)
 #### Classification Report for Mean (average measures) DataFrame
-![M_Class_report](class_report_mean.png) 
+![M_Class_report](class_report_mean.png).
 
 
 We also created visualizations for further analysis.
